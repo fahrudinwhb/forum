@@ -1,0 +1,43 @@
+body{
+	background-image: url(login.jpg);
+	background-size: 1520px;
+}
+.borderlogin{
+	border-right: 0px;
+	float: right;
+	padding-top: 120px;
+}
+.tabelin{
+	background-color: #e1e8ed;
+	border-radius: 5px;
+	opacity: 0.8;
+}
+input{
+	border-radius: 5px;
+}
+img.burunglogo{
+	padding-top: 100px;
+	padding-left: 60px;
+}
+td{
+
+	opacity: 1 !important;
+}
+@font-face {
+    font-family:'BrannbollFet';
+    src : url('BrannbollFet.ttf');
+}
+p{
+	font-family: 'BrannbollFet';
+	font-size: 80px;
+	color: white; 
+}
+button{
+	height: 30px;
+	width: 100px;
+	border: 1px, solid, #3b88c3;
+	border-radius: 5px;
+	background-color: #55acee;
+	cursor: pointer;
+	margin-left: 10px;
+}

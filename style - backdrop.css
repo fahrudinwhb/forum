@@ -1,0 +1,173 @@
+body {    background-image: url(pattern-bhpy.png);
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+	text-align: center;
+}
+img {
+	position: relative;
+	top: 5px;
+}
+.container{
+    max-width : 960px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'roboto-condensed';
+}
+
+.nav-bar{
+    background-color: #222222;
+    width: 100%;
+    height: 150px;
+}
+.title-bar-left{
+    display: inline-block;
+    width: 35%;
+    height: 150px;
+}
+.title-bar-left .logo{
+    width: 120px;
+    height: 80px;
+    position: relative;
+    top: 20px;
+}
+.title-bar-left h3{
+    color: white;
+    display: inline-block;
+    margin: 0px;
+    position: relative;
+    font-size: 40px;
+    margin-left: 20px;
+    font-family: 'roboto-condensed';
+    font-weight: 500;
+    letter-spacing: 1px;
+    top: -20px;
+}
+.title-bar-left p{
+    color: white;
+    display: inline-block;
+    margin: 0px;
+    position: relative;
+    left: 35%;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'roboto-condensed';
+    letter-spacing: 0.5px;
+    color: #ff8414;
+    top: -20px;
+}
+.title-bar-right{
+    display: inline-block;
+    position: relative;    font-size: 21px;
+    font-family: 'roboto-condensed';
+    color: white;
+    top: -20px;
+}
+.backTop{
+    position: fixed;
+    background-color: black;
+    bottom: 47px;
+    right: 1px;
+    padding: 4px;
+    border-radius: 5px;
+    width: 68px;
+}
+.backTop button{
+    background-color: black;
+    color: white;
+    width: 64px;
+}
+.backTopi{
+    position: fixed;
+    background-color: black;
+    bottom: 110px;
+    right: 1px;
+    padding: 6px;
+    border-radius: 5px;
+    width: 64px;
+}
+.backTopi button{
+    background-color: black;
+    color: white;
+    width: 64px;
+}
+.footer{
+    color: white;
+    background-color: #222222;
+}
+.footer img{
+    width: 50px;
+    height: 40px;
+}
+.footer p{
+    display: inline-block;
+    margin: 0px;
+    padding-left: 2px;
+    color: #ff8414;
+    font-size: 15px;
+    position: relative;
+    top : -15px;
+}
+.footer h3{
+    display: inline-block;
+    margin: 0px;
+    padding-left: 2px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    font-size: 15px;
+    position: relative;
+    top : -15px;
+    
+}
+.besar{
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #393939;
+}
+.besarin{
+    background-color: black;
+    color: white;
+}
+.kecilin{
+    color: white;
+}
+.adem{
+    max-width: 100px;
+    max-height: 50px;
+}
+.adminrata{
+    background-color: black;
+    bottom: 110px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 90px;
+    display: inline-block;
+}
+
+.adminrata button{
+    background-color: black;
+    color: white;
+    width: 90px;
+}
+.adminberisi{
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #393939;
+    text-align: center;
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+
+h1.garis{
+    background-color: red;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.tabelin{
+    background-color: #e1e8ed;
+    border-radius: 5px;
+    opacity: 0.8;
+}
